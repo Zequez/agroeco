@@ -20,4 +20,8 @@
   ]}
   {Container}
   {NavContainer}
+  themeColors={{
+    'main-hue': 80,
+    'main-saturation': 70,
+  }}
 ></App>
